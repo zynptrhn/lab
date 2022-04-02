@@ -1,4 +1,4 @@
-//main fonksiyonu icerisinde verilen bir sayiya kadar olan sayilarin toplamini bulan rekürsif fonksiyon
+//main fonksiyonu icerisinde verilen bir sayiya kadar olan sayilarin toplamini bulan rekÃ¼rsif fonksiyon
 #include <stdio.h>
 int toplambul(int);
 
